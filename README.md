@@ -1,6 +1,6 @@
 # Data Science Resources
 
-### Facts are stubborn, but statistics are more pliable. - Mark Twain
+### "Facts are stubborn, but statistics are more pliable." - Mark Twain
 
 ## Books 
 
