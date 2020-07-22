@@ -13,3 +13,10 @@
 * Mathematical Foundations of Data Science - https://sites.google.com/view/seminarmathdatascience/home
 
 
+## Podcasts
+
+* Data Skeptic https://dataskeptic.com/
+
+* Towards Data Science https://towardsdatascience.com/podcast/home
+
+* Data Engineering Podcast https://www.dataengineeringpodcast.com/
